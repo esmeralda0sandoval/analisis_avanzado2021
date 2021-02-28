@@ -28,7 +28,7 @@ ___
 * ## :clipboard: [Blog](https://github.com/esmeralda0sandoval/analisis_avanzado2021/tree/main/Blog "Blog")
     * ### :hourglass_flowing_sand: [C0.1_IntegrarEquiposDeTrabajo](https://github.com/esmeralda0sandoval/analisis_avanzado2021/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C0.1_IntegrarEquiposDeTrabajo")
 ---
-* ## :bar_chart: [Diagrams](https://github.com/esmeralda0sandoval/analisis_avanzado2021/tree/main/Diagramas "Diagrams")
+* ## :bar_chart: [Diagrams](https://github.com/esmeralda0sandoval/analisis_avanzado2021/tree/main/diagramas "Diagrams")
 ---
 * ## :open_file_folder: [Docs](https://github.com/esmeralda0sandoval/analisis_avanzado2021/tree/main/Docs "Docs")
 ---
