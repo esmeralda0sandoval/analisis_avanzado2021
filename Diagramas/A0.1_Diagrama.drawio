@@ -1,0 +1,208 @@
+<mxfile>
+    <diagram id="Ool0BiU2qDONSKYx1_vn" name="Page-1">
+        <mxGraphModel dx="882" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="endArrow=none;html=1;strokeWidth=5;strokeColor=#666666;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="430" y="1460" as="sourcePoint"/>
+                        <mxPoint x="430" y="10" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=none;html=1;strokeColor=#808080;strokeWidth=5;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="230" y="1460" as="sourcePoint"/>
+                        <mxPoint x="230" y="10" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;strokeWidth=9;targetPerimeterSpacing=9;endWidth=17;endSize=14.39;startWidth=17;startSize=14.39;fillColor=#000000;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="10" y="50" as="sourcePoint"/>
+                        <mxPoint x="640" y="50" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 29px&quot;&gt;&lt;b&gt;What?&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="90" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 29px&quot;&gt;&lt;b&gt;How?&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="294" y="90" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font style=&quot;font-size: 29px&quot;&gt;&lt;b&gt;Why?&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="90" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Concrete" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="40" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="What are they doing?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="120" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="How are they doing it?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="120" width="124" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Why are they doing it that way?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="120" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;font color=&quot;#ffffff&quot;&gt;Watching the user interface&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="170" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="By accesing to the platform" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="185" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="To see if it´s attractive and intuitive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="475" y="185" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Creating an account" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="270" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Introducing their requested information" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="273" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Emotional" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="515" y="40" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="To give them the access they need to use the platform" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="475" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;font color=&quot;#ffffff&quot;&gt;Loging in&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="370" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Typing their username and password" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="To let the database search for their information and decide if they can login or not" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="467.5" y="380" width="135" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;font color=&quot;#ffffff&quot;&gt;Putting filters on their search&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="470" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Opening the search options" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="272" y="480" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="To search for specific files by their tags" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="467.5" y="480" width="135" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;font color=&quot;#ffffff&quot;&gt;Saving files&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="570" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Selecting the &lt;i&gt;&quot;read later&quot;&lt;/i&gt; option" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="272" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="To see them later without downloading them (feature in the online platform only)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="467.5" y="580" width="135" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;font color=&quot;#ffffff&quot;&gt;Uploading files&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="670" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Selecting the file they want to upload, only on pptx, mp4 or pdf format" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="272" y="680" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="To share with other users files that can help them (limited size without premium version)" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="463.75" y="680" width="142.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;font color=&quot;#ffffff&quot;&gt;Rating files&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="770" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Rating it in a 1 to 5 stars scale" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="272" y="780" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="This is necesary in order to now wich files are better for the one other users requested when they search some tag/topic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="444.38" y="770" width="181.25" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="&lt;font color=&quot;#ffffff&quot;&gt;Commenting files and replying them&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="870" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Putting a comment on the comments section" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="274" y="880" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="This is necessary to give a feedback on the files" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="467.5" y="880" width="135" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="&lt;font color=&quot;#ffffff&quot;&gt;Sharing files&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="75" y="970" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Sharing them with its link or with the platform by adding other users as contacts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="266" y="985" width="132" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="To share the file´s content that can help other users" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="467.5" y="985" width="135" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="&lt;font color=&quot;#ffffff&quot;&gt;Seeing file´s information&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="75" y="1079" width="120" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Looking it below the files when the users search them" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="269" y="1084.5" width="132" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="They do this to see if the files match correctly with their search" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="467.51" y="1084.5" width="135" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="&lt;font color=&quot;#ffffff&quot;&gt;Viewing recommended files&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="1169" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Watching them below the opened article or next to it" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="267" y="1179" width="132" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="This is made by the users to complement the previous seen information with the one in other files" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="458.75" y="1173.5" width="152.5" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;font color=&quot;#ffffff&quot;&gt;Subscribing to the premium version&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="1270" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="Adding users payment method" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="266" y="1280" width="132" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="By doing this the users will be able to download to their device the files they want and upload some files that are heavy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="453.75" y="1270" width="162.5" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="&lt;font color=&quot;#ffffff&quot;&gt;Downloading files&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="1370" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="They do this if they subscribed to the premium version before" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="267" y="1380" width="132" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="To watch files in their device anytime even if they dont have access to internet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
+                    <mxGeometry x="461.88" y="1370" width="146.25" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="&lt;font color=&quot;#ffffff&quot;&gt;Creating an account&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="270" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="&lt;font color=&quot;#ffffff&quot;&gt;Loging in&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="370" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="&lt;font color=&quot;#ffffff&quot;&gt;Putting filters on their search&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="470" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="&lt;font color=&quot;#ffffff&quot;&gt;Saving files&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="570" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="&lt;font color=&quot;#ffffff&quot;&gt;Uploading files&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="670" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="&lt;font color=&quot;#ffffff&quot;&gt;Rating files&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="770" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="&lt;font color=&quot;#ffffff&quot;&gt;Commenting files and replying them&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="870" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="&lt;font color=&quot;#ffffff&quot;&gt;Sharing files&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="75" y="970" width="120" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;font color=&quot;#ffffff&quot;&gt;Seeing file´s information&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="75" y="1079" width="120" height="71" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="&lt;font color=&quot;#ffffff&quot;&gt;Viewing recommended files&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="1169" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&lt;font color=&quot;#ffffff&quot;&gt;Subscribing to the premium version&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;fillColor=#003300;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="1270" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="By accesing to the platform" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="273" y="185" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="Introducing their requested information" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
+                    <mxGeometry x="271" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
